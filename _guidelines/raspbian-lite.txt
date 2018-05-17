@@ -1,0 +1,13 @@
+Raspbian lite: Instalar entorno gráfico
+===============================
+https://raspberrypi.stackexchange.com/questions/9311/how-to-install-lxde-on-raspbmc
+-Arrancar en modo consola (recordad usuario root: pi/raspberry)
+-Conectado a red por cable o wifi (ver https://thepihut.com/blogs/raspberry-pi-tutorials/83502916-how-to-setup-wifi-on-raspbian-jessie-lite)
+- sudo apt-get update
+- sudo apt-get install lxde-core xserver-xorg xinit
+- sudo apt-get install xinit
+Son 300MB, mejor por cable
+
+Para arrancar el entorno gráfico la próxima vez:
+-startx
+-startlxde

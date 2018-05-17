@@ -1,0 +1,19 @@
+What's a breadboard:
+https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard
+
+Who can we design our circuits:
+http://fritzing.org/download/?donation=0
+
+Overview of the most common sensors:
+https://tutorials-raspberrypi.com/raspberry-pi-sensors-overview-50-important-components/
+
+Resistance guidelines:
+http://www.ttelectronics.com/themes/ttelectronics/datasheets/resistors/Resistor-Marking-Codes.pdf
+https://courses.engr.illinois.edu/ece110/su2017/content/coursenotes/files/?resistanceAndOhmsLaw
+
+Picobbler built:
+https://www.adafruit.com/product/914
+
+Soldering for dummies:
+http://www.dummies.com/programming/electronics/what-is-soldering-and-how-do-you-use-solder-tools/
+https://tallerelectronica.com/2014/11/02/tecnicas-y-trucos-para-la-soldar-y-desoldar-componentes-electronicos/

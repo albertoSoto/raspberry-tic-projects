@@ -1,0 +1,4 @@
+
+Activar teclado en pantalla
+https://raspberrypi.stackexchange.com/questions/41150/virtual-keyboard-activation
+https://thepihut.com/blogs/raspberry-pi-tutorials/45295044-raspberry-pi-7-touch-screen-assembly-guide

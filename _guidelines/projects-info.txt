@@ -1,0 +1,37 @@
+Raspberry photo booth
+========================================================================
+	Stage 0 - Try the picam
+	https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/5
+	Stage 1 - Let's make it work
+	https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+	Stage 2 - Basic photocall
+	http://www.instructables.com/id/Raspberry-Pi-photo-booth-controller/
+	Stage 3 - Chroma
+	https://github.com/pecuchet/subtracted-reality-py
+	Video
+	http://picamera.readthedocs.io/en/release-1.10/recipes1.html
+
+TRANSLATOR
+========================================================================
+	huckleberry Pi
+	https://makezine.com/projects/make-42/universal-translator/
+	https://www.youtube.com/watch?v=LQVbzA9XMrM
+
+SENSEHAT
+========================================================================
+
+	hello world sensehat:
+	https://github.com/RPi-Distro/python-sense-hat/blob/master/examples/README.md
+	from sense_hat import SenseHat
+	sense = SenseHat()
+	sense.show_message("Hello world!")
+	Training pi
+	https://projects.raspberrypi.org/en/projects/countdown-timer
+
+FLICKR
+========================================================================
+	https://www.justboom.co/software/justboom-player/configure-justboom-player/
+	https://www.pi-supply.com/make/control-justboom-player-flick-rest-api/#rest-in-python
+	https://www.pi-supply.com/make/flick-quick-start-faq/#flick-large-board
+	Flick music player
+	https://www.pi-supply.com/make/control-justboom-player-flick-rest-api/
